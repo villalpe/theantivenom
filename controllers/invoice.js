@@ -111,7 +111,7 @@ function uploadImageInvoice(req, res){
 
 	if(req.files.image){
 		var file_path = req.files.image.path;
-		var file_split = file_path.split('/');
+		var file_split = file_path.split('\\');
 		var file_name = file_split[2];
 
 		var ext_file = file_name.split('\.');
