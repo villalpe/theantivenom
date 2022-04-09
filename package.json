@@ -20,7 +20,7 @@
     "gridfs-stream": "^1.1.1",
     "hbs": "^4.0.4",
     "jwt-simple": "^0.5.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.5.7",
     "multer": "^1.4.1",
     "multer-gridfs-storage": "^3.2.3",
